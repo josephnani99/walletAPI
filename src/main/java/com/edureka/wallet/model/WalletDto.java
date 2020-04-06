@@ -1,10 +1,12 @@
+
+
 package com.edureka.wallet.model;
 
 import java.io.Serializable;
 
 public class WalletDto implements Serializable {
 
-	private static final long serialVersionUID = 7744691402722556258L;
+	private static final long serialVersionUID = 5744691402722556258N;
 
 	private Float refundableCredit;
 
